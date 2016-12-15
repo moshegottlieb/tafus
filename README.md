@@ -1,5 +1,5 @@
 # tafus
-Tafus screen saver form macOS features my elevator's "busy" sign.
+Tafus screen saver for macOS features my elevator's "busy" sign.
 
 Enjoy!
 
