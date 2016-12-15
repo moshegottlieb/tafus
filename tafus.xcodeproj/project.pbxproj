@@ -372,7 +372,7 @@
 		9A30D1D81D56170400166C13 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CODE_SIGN_IDENTITY = "3rd Party Mac Developer Application: Moshe Gottlieb (2SEZH94Q48)";
+				CODE_SIGN_IDENTITY = "Mac Developer: Moshe Gottlieb (RKRBF86E2B)";
 				COMBINE_HIDPI_IMAGES = YES;
 				INFOPLIST_FILE = tafus/Info.plist;
 				INSTALL_PATH = "$(HOME)/Library/Screen Savers";
@@ -385,7 +385,7 @@
 		9A30D1D91D56170400166C13 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CODE_SIGN_IDENTITY = "3rd Party Mac Developer Application: Moshe Gottlieb (2SEZH94Q48)";
+				CODE_SIGN_IDENTITY = "Mac Developer: Moshe Gottlieb (RKRBF86E2B)";
 				COMBINE_HIDPI_IMAGES = YES;
 				INFOPLIST_FILE = tafus/Info.plist;
 				INSTALL_PATH = "$(HOME)/Library/Screen Savers";
